@@ -563,6 +563,7 @@ header .cart i {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     gap: 30px;
+    place-items: center;
 }
 
 .customer .number .item {
